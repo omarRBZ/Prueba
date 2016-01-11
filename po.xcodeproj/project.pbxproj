@@ -47,6 +47,7 @@
 		073EC8A21C4346B3001653B6 /* poUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = poUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		073EC8A61C4346B3001653B6 /* poUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = poUITests.swift; sourceTree = "<group>"; };
 		073EC8A81C4346B3001653B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		073EC8B61C4348FE001653B6 /* Minireto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Minireto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				073EC88D1C4346B2001653B6 /* Assets.xcassets */,
 				073EC88F1C4346B2001653B6 /* LaunchScreen.storyboard */,
 				073EC8921C4346B2001653B6 /* Info.plist */,
+				073EC8B61C4348FE001653B6 /* Minireto.playground */,
 			);
 			path = po;
 			sourceTree = "<group>";
@@ -484,6 +486,7 @@
 				073EC8AD1C4346B3001653B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		073EC8AE1C4346B3001653B6 /* Build configuration list for PBXNativeTarget "poTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				073EC8B01C4346B3001653B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		073EC8B11C4346B3001653B6 /* Build configuration list for PBXNativeTarget "poUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +504,7 @@
 				073EC8B31C4346B3001653B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
