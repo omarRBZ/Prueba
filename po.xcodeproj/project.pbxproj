@@ -14,6 +14,7 @@
 		073EC8911C4346B2001653B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 073EC88F1C4346B2001653B6 /* LaunchScreen.storyboard */; };
 		073EC89C1C4346B3001653B6 /* poTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073EC89B1C4346B3001653B6 /* poTests.swift */; };
 		073EC8A71C4346B3001653B6 /* poUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073EC8A61C4346B3001653B6 /* poUITests.swift */; };
+		073EC8C01C43516F001653B6 /* Prueba.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073EC8BF1C43516F001653B6 /* Prueba.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		073EC8A61C4346B3001653B6 /* poUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = poUITests.swift; sourceTree = "<group>"; };
 		073EC8A81C4346B3001653B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		073EC8B61C4348FE001653B6 /* Minireto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Minireto.playground; sourceTree = "<group>"; };
+		073EC8BF1C43516F001653B6 /* Prueba.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Prueba.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				073EC88D1C4346B2001653B6 /* Assets.xcassets */,
 				073EC88F1C4346B2001653B6 /* LaunchScreen.storyboard */,
 				073EC8921C4346B2001653B6 /* Info.plist */,
+				073EC8BF1C43516F001653B6 /* Prueba.swift */,
 			);
 			path = po;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				073EC8C01C43516F001653B6 /* Prueba.swift in Sources */,
 				073EC8891C4346B2001653B6 /* ViewController.swift in Sources */,
 				073EC8871C4346B2001653B6 /* AppDelegate.swift in Sources */,
 			);
